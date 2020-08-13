@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cannoli</folder>
+	<filename>3830551.jpg</filename>
+	<path>C:\Users\Nora\Downloads\food-101-20200806T134905Z-001\food-101\cannoli\3830551.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cannoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>43</ymin>
+			<xmax>432</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

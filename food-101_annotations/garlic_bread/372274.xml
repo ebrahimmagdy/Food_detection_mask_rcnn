@@ -1,0 +1,39 @@
+<annotation>
+	<folder>garlic_bread</folder>
+	<filename>372274.jpg</filename>
+	<path>E:\food-101\food-101\images\garlic_bread\372274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>8</ymin>
+			<xmax>441</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>
+Ketchup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>10</ymin>
+			<xmax>219</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

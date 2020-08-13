@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beef_tartare</folder>
+	<filename>1607952.jpg</filename>
+	<path>C:\Users\Nora\Downloads\food-101-20200806T134905Z-001\food-101\beef_tartare\1607952.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beef_tartare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>101</ymin>
+			<xmax>338</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

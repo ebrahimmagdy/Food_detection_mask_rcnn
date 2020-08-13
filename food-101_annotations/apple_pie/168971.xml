@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple_pie</folder>
+	<filename>168971.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\apple_pie\168971.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple_pie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>140</ymin>
+			<xmax>340</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

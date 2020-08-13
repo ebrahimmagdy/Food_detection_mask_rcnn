@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ramen</folder>
+	<filename>94432.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\ramen\94432.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ramen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>80</ymin>
+			<xmax>443</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beet_salad</folder>
+	<filename>223278.jpg</filename>
+	<path>C:\Users\Nora\Downloads\food-101-20200806T134905Z-001\food-101\beet_salad\223278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beet_salad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>131</ymin>
+			<xmax>346</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

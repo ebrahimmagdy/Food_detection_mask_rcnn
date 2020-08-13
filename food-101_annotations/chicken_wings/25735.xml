@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chicken_wings</folder>
+	<filename>25735.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\chicken_wings\25735.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_wings</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>145</ymin>
+			<xmax>290</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

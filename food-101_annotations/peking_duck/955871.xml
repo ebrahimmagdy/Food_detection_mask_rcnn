@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peking_duck</folder>
+	<filename>955871.jpg</filename>
+	<path>C:\Users\elmancy\Downloads\peking_duck-20200807T010532Z-001\peking_duck\955871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peking_duck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>108</ymin>
+			<xmax>512</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

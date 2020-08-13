@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cheesecake</folder>
+	<filename>375889.jpg</filename>
+	<path>E:\food-101\food-101\images\cheesecake\375889.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheese cake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>82</ymin>
+			<xmax>509</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

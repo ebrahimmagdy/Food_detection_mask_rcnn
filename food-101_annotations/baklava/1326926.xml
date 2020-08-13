@@ -1,0 +1,26 @@
+<annotation>
+	<folder>baklava</folder>
+	<filename>1326926.jpg</filename>
+	<path>/media/ebrahim/5BC7-42751/colege/project/dataset/baklava-20200805T153557Z-001/baklava/1326926.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baklava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>79</ymin>
+			<xmax>416</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

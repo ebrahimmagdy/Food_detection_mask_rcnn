@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tiramisu</folder>
+	<filename>441252.jpg</filename>
+	<path>E:\food-101\food-101\images\tiramisu\441252.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiramisu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>226</ymin>
+			<xmax>346</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ice cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>14</ymin>
+			<xmax>313</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

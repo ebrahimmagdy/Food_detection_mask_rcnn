@@ -1,0 +1,26 @@
+<annotation>
+	<folder>breakfast_burrito</folder>
+	<filename>1495667.jpg</filename>
+	<path>C:\Users\Nora\Downloads\food-101-20200806T134905Z-001\food-101\breakfast_burrito\1495667.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breakfast_burrito</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>18</ymin>
+			<xmax>506</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

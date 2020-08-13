@@ -1,0 +1,26 @@
+<annotation>
+	<folder>donuts</folder>
+	<filename>53457.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\donuts\53457.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donuts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>81</ymin>
+			<xmax>468</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

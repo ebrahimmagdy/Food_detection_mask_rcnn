@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pizza</folder>
+	<filename>195160.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\pizza\195160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>145</ymin>
+			<xmax>427</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

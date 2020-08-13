@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ice_cream</folder>
+	<filename>389519.jpg</filename>
+	<path>/media/ebrahim/5BC7-42751/colege/project/dataset/ice_cream-20200805T181239Z-001/ice_cream/389519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ice_cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>95</ymin>
+			<xmax>318</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

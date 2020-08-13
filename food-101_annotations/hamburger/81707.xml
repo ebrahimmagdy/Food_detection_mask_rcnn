@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hamburger</folder>
+	<filename>81707.jpg</filename>
+	<path>/media/ebrahim/5BC7-42751/colege/project/dataset/hamburger-20200805T213237Z-001/hamburger/81707.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>8</ymin>
+			<xmax>435</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

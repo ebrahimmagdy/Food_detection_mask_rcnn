@@ -1,0 +1,26 @@
+<annotation>
+	<folder>falafel</folder>
+	<filename>265817.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\falafel\265817.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>falafel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>197</ymin>
+			<xmax>306</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

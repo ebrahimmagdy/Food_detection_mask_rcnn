@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pho</folder>
+	<filename>96270.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\pho\96270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>200</ymin>
+			<xmax>347</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

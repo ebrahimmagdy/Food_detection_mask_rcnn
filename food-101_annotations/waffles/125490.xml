@@ -1,0 +1,26 @@
+<annotation>
+	<folder>waffles</folder>
+	<filename>125490.jpg</filename>
+	<path>E:\food-101\food-101\images\waffles\125490.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waffles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>49</ymin>
+			<xmax>405</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bread_pudding</folder>
+	<filename>1404112.jpg</filename>
+	<path>C:\Users\Nora\Downloads\food-101-20200806T134905Z-001\food-101\bread_pudding\1404112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bread_pudding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>23</ymin>
+			<xmax>393</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

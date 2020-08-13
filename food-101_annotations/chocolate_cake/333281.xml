@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chocolate_cake</folder>
+	<filename>333281.jpg</filename>
+	<path>E:\food-101\food-101\images\chocolate_cake\333281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>83</ymin>
+			<xmax>512</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chocolate cake</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>85</ymin>
+			<xmax>512</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

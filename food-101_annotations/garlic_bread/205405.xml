@@ -1,0 +1,26 @@
+<annotation>
+	<folder>garlic_bread</folder>
+	<filename>205405.jpg</filename>
+	<path>E:\food-101\food-101\images\garlic_bread\205405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>10</ymin>
+			<xmax>482</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

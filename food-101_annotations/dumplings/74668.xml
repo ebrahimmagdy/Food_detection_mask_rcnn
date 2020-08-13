@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dumplings</folder>
+	<filename>74668.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\dumplings\74668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dumplings</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>177</ymin>
+			<xmax>334</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

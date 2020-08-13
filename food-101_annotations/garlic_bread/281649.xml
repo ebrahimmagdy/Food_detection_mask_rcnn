@@ -1,0 +1,39 @@
+<annotation>
+	<folder>garlic_bread</folder>
+	<filename>281649.jpg</filename>
+	<path>E:\food-101\food-101\images\garlic_bread\281649.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic bread</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>17</ymin>
+			<xmax>382</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>
+tomato sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>165</ymin>
+			<xmax>302</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

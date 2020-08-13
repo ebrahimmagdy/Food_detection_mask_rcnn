@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samosa</folder>
+	<filename>309748.jpg</filename>
+	<path>E:\food-101\food-101\images\samosa\309748.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samosa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>36</ymin>
+			<xmax>384</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

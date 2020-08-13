@@ -1,0 +1,38 @@
+<annotation>
+	<folder>waffles</folder>
+	<filename>179004.jpg</filename>
+	<path>E:\food-101\food-101\images\waffles\179004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waffles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>158</ymin>
+			<xmax>318</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ice cream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>168</ymin>
+			<xmax>301</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

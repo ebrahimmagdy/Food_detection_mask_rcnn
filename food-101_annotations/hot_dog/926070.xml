@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hot_dog</folder>
+	<filename>926070.jpg</filename>
+	<path>/media/ebrahim/5BC7-42751/colege/project/dataset/hot_dog-20200805T191441Z-001/hot_dog/926070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot_dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>24</ymin>
+			<xmax>325</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

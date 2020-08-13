@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fried_rice</folder>
+	<filename>1227753.jpg</filename>
+	<path>/media/ebrahim/5BC7-42751/colege/project/dataset/fried_rice-20200805T171833Z-001/fried_rice/1227753.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fried_rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>160</ymin>
+			<xmax>345</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

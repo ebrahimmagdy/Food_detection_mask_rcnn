@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sushi</folder>
+	<filename>180239.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\sushi\180239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sushi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>62</ymin>
+			<xmax>316</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

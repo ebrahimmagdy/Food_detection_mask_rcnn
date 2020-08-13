@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cup_cakes</folder>
+	<filename>145993.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\cup_cakes\145993.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup_cakes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>39</ymin>
+			<xmax>496</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

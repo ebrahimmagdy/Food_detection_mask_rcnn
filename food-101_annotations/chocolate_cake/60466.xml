@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chocolate_cake</folder>
+	<filename>60466.jpg</filename>
+	<path>E:\food-101\food-101\images\chocolate_cake\60466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chocolate cake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>100</ymin>
+			<xmax>365</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

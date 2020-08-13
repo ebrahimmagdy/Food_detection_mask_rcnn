@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bibimbap</folder>
+	<filename>1414744.jpg</filename>
+	<path>C:\Users\Nora\Downloads\food-101-20200806T134905Z-001\food-101\bibimbap\1414744.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bibimbap</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>46</ymin>
+			<xmax>512</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

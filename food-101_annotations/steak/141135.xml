@@ -1,0 +1,26 @@
+<annotation>
+	<folder>steak</folder>
+	<filename>141135.jpg</filename>
+	<path>E:\Beshoy\College\content\food-101\images\steak\141135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>steak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>220</ymin>
+			<xmax>367</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

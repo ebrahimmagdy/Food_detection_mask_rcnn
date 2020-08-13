@@ -1,0 +1,26 @@
+<annotation>
+	<folder>deviled_eggs</folder>
+	<filename>1010482.jpg</filename>
+	<path>/media/ebrahim/5BC7-42751/colege/project/dataset/deviled_eggs-20200805T232011Z-001/deviled_eggs/1010482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deviled_eggs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>74</ymin>
+			<xmax>453</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
